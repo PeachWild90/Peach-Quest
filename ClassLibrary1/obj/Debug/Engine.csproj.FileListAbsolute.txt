@@ -1,0 +1,6 @@
+C:\DotNetProjects\PeachQuest\ClassLibrary1\bin\Debug\Engine.dll
+C:\DotNetProjects\PeachQuest\ClassLibrary1\bin\Debug\Engine.pdb
+C:\DotNetProjects\PeachQuest\ClassLibrary1\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\DotNetProjects\PeachQuest\ClassLibrary1\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\PeachQuest\ClassLibrary1\obj\Debug\Engine.dll
+C:\DotNetProjects\PeachQuest\ClassLibrary1\obj\Debug\Engine.pdb

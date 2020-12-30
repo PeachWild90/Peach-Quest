@@ -1,0 +1,13 @@
+C:\DotNetProjects\PeachQuest\PeachQuest\bin\Release\PeachQuest.exe.config
+C:\DotNetProjects\PeachQuest\PeachQuest\bin\Release\PeachQuest.exe
+C:\DotNetProjects\PeachQuest\PeachQuest\bin\Release\PeachQuest.pdb
+C:\DotNetProjects\PeachQuest\PeachQuest\bin\Release\Engine.dll
+C:\DotNetProjects\PeachQuest\PeachQuest\bin\Release\Engine.pdb
+C:\DotNetProjects\PeachQuest\PeachQuest\obj\Release\PeachQuest.csprojAssemblyReference.cache
+C:\DotNetProjects\PeachQuest\PeachQuest\obj\Release\PeachQuest.PeachQuest.resources
+C:\DotNetProjects\PeachQuest\PeachQuest\obj\Release\PeachQuest.Properties.Resources.resources
+C:\DotNetProjects\PeachQuest\PeachQuest\obj\Release\PeachQuest.csproj.GenerateResource.cache
+C:\DotNetProjects\PeachQuest\PeachQuest\obj\Release\PeachQuest.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\PeachQuest\PeachQuest\obj\Release\PeachQuest.csproj.CopyComplete
+C:\DotNetProjects\PeachQuest\PeachQuest\obj\Release\PeachQuest.exe
+C:\DotNetProjects\PeachQuest\PeachQuest\obj\Release\PeachQuest.pdb
